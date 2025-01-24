@@ -6,4 +6,4 @@
 ![Followers](https://img.shields.io/badge/Followers-1813-blue?logo=github)
 
 
-![stats]("https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark")
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=curtisdingdong&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
