@@ -5,4 +5,4 @@
 
 [![Markdown Lint](https://github.com/curtisdingdong/Github-Actions/actions/workflows/markdown.yaml/badge.svg)](https://github.com/curtisdingdong/Github-Actions/actions/workflows/markdown.yaml)
 
-[![Yaml Lint](https://github.com/curtisdingdong/argo-cd/actions/workflows/yamllint.yaml/badge.svg)]
+[![Yaml Lint](https://github.com/curtisdingdong/Github-Actions/actions/workflows/yamllint.yaml/badge.svg)](https://github.com/curtisdingdong/Github-Actions/actions/workflows/yamllint.yaml)
