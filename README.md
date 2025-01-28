@@ -9,4 +9,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=curtisdingdong&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-[![Markdown](https://github.com/HariSekhon/HariSekhon/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/HariSekhon/actions/workflows/markdown.yaml)
+
+
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/curtisdingdong/Github-Actions?logo=github)](https://github.com/curtisdingdong/Github-Actions/commits/master)
+
+[![Markdown Lint](https://github.com/curtisdingdong/Github-Actions/actions/workflows/markdown.yaml/badge.svg)](https://github.com/curtisdingdong/Github-Actions/actions/workflows/markdown.yaml)
