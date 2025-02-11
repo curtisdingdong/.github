@@ -5,7 +5,7 @@
 ### CI/CD
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtisdingdong&repo=Github-Actions&theme=ambient_gradient&description_lines_count=3)](https://github.com/curtisdingdong/Github-Actions)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtisdingdong&repo=Argo-CD&theme=ambient_gradient&description_lines_count=3)](https://github.com/curtisdingdong/argo-cd)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtisdingdong&repo=argo-cd&theme=ambient_gradient&description_lines_count=3)](https://github.com/curtisdingdong/argo-cd)
 
 <!--
 
