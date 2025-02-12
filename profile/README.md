@@ -9,14 +9,10 @@
 ### Devops Tools
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtisdingdong&repo=bash&show_icons=true&theme=dracula&description_lines_count=3)](https://github.com/curtisdingdong/bash)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtisdingdong&repo=git&theme=dracula&description_lines_count=3)](https://github.com/curtisdingdong/git)
 
-
 ### Infrastructure As Code
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtisdingdong&repo=terraform-azure&theme=dracula&description_lines_count=3)](https://github.com/curtisdingdong/terraform-azure)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtisdingdong&repo=terraform-aws&theme=dracula&description_lines_count=3)](https://github.com/curtisdingdong/terraform-aws)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtisdingdong&repo=terraform-argocd&theme=dracula&description_lines_count=3)](https://github.com/curtisdingdong/terraform-argocd)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtisdingdong&repo=terraform&theme=dracula&description_lines_count=3)](https://github.com/curtisdingdong/terraform)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtisdingdong&repo=pulumi&theme=dracula&description_lines_count=3)](https://github.com/curtisdingdong/pulumi)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtisdingdong&repo=pulumi-aws&theme=dracula&description_lines_count=3)](https://github.com/curtisdingdong/pulumi-aws)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtisdingdong&repo=pulumi-azure&theme=dracula&description_lines_count=3)](https://github.com/curtisdingdong/pulumi-azure)
 
 **Here are some ideas to get you started:**
 
