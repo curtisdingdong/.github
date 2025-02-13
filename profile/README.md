@@ -10,8 +10,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtisdingdong&repo=bash&show_icons=true&theme=dracula&description_lines_count=3)](https://github.com/curtisdingdong/bash)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtisdingdong&repo=git&theme=dracula&description_lines_count=3)](https://github.com/curtisdingdong/git)
 
 ### Infrastructure As Code
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtisdingdong&repo=terraform&theme=dracula&description_lines_count=3)](https://github.com/curtisdingdong/terraform)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtisdingdong&repo=pulumi&theme=dracula&description_lines_count=3)](https://github.com/curtisdingdong/pulumi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtisdingdong&repo=Terraform&theme=dracula&description_lines_count=3)](https://github.com/curtisdingdong/terraform)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtisdingdong&repo=Pulumi&theme=dracula&description_lines_count=3)](https://github.com/curtisdingdong/pulumi)
 
 
 **Here are some ideas to get you started:**
